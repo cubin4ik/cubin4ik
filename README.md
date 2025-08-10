@@ -1,6 +1,6 @@
 # About me
-Fullstack backend oriented python/js developer.
-Backend stack: FastAPI/Pydantic/SQLAlchemy, Django/DRF
+Fullstack backend oriented python/js developer.\n
+Backend stack: FastAPI/Pydantic/SQLAlchemy, Django/DRF\n
 Frontend stack: React
 
 To contact me please use the following contacts:
